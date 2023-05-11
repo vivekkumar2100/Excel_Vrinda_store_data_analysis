@@ -16,3 +16,6 @@ So that , Vrinda can understand their customers and grow more sales in 2023.
 2. Maharashtra , Karnatka and Uttar Pradesh are the top 3 states (~35%)
 3. Adult age group(30-49 yrs) is max contributing (~50%)
 4. Amazon , Flipcart and Myntra channels are maximum contribution (~80%)
+# Conclusion
+Target Women customes of age group(30-39 yrs0) living in Maharashtra , Karnatka and Uttar Pradesh 
+by showing adds/offers/coupons available on Amazon , Flipcart and Myntra.
