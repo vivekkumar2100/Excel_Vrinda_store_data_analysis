@@ -11,3 +11,8 @@ So that , Vrinda can understand their customers and grow more sales in 2023.
 6. Relation between age and gender based on number of orders.
 7. Which channel is contributing to maximum sales?
 8. Highest selling category?
+# Insights
+1. Womens are more likely to buy compared to men (~65%)
+2. Maharashtra , Karnatka and Uttar Pradesh are the top 3 states (~35%)
+3. Adult age group(30-49 yrs) is max contributing (~50%)
+4. Amazon , Flipcart and Myntra channels are maximum contribution (~80%)
